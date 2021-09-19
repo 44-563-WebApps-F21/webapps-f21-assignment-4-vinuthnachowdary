@@ -1,14 +1,22 @@
 h4.LORDGORING{
+   
     font-family: sans-serif;
     font-size: 20px;
     color:teal;
+}
+h4.LORDGORING:hover{
+    text-shadow: 2px 2px 5px red;
+    border-style: solid;
 }
 h4.SIRROBERTCHILTERN{
     font-family: sans-serif;
     font-size: 20px;
     color:plum;
 }
-
+h4.SIRROBERTCHILTERN:hover{
+    text-shadow: 2px 2px 5px red;
+    border-style: solid;
+}
 p.speech{
     font-family: 'Times New Roman', Times, serif;
     font-size: 15px;
