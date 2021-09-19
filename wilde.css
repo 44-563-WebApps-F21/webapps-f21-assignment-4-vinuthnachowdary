@@ -1,0 +1,31 @@
+h4.LORDGORING{
+    font-family: sans-serif;
+    font-size: 20px;
+    color:teal;
+}
+h4.SIRROBERTCHILTERN{
+    font-family: sans-serif;
+    font-size: 20px;
+    color:plum;
+}
+
+p{
+    font-family: 'Times New Roman', Times, serif;
+    font-size: 15px;
+    color:black;
+}
+
+p.stagedirection{
+    font-family: Arial, sans-serif;
+    font-size: 18px;
+    color: black;
+    background-color: palegreen;
+}
+p.stagedirection:hover{
+    font-family: Arial, sans-serif;
+    font-size: 18px;
+    color: black;
+    background-color: cornsilk;
+
+}
+  
